@@ -1,0 +1,11 @@
+{
+  "author": "Marian",
+  "name": "censorify",
+  "version": "0.1.1",
+  "description": "censors words",
+  "main": "censortext",
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
